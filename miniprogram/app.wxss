@@ -1,0 +1,14 @@
+@import '/style/weui.wxss';
+@import '/style/fontawesome.wxss';
+
+page {
+  height: 100%;
+  width: 100%;
+  background-color: #F7F7F7;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+}

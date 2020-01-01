@@ -1,0 +1,43 @@
+<swiper style="height: 100%">
+  <swiper-item>
+    <view style="height: 10%">
+    </view>
+    <view style="height: 80%">
+      <knowledgecard></knowledgecard>
+    </view>
+    <view style="height: 10%" class="weui-footer">
+      <view class="weui-footer__text">Copyright © 2008-2016 weui.io</view>
+    </view>
+  </swiper-item>
+
+ <swiper-item>
+    <view style="height: 10%">111</view>
+    <view style="height: 80%">
+      <knowledgecard></knowledgecard>
+    </view>
+    <view style="height: 10%" class="weui-footer">
+      <view class="weui-footer__text">Copyright © 2008-2016 weui.io</view>
+    </view>
+  </swiper-item>
+
+  <swiper-item>
+    <view style="height: 10%">111</view>
+    <view style="height: 80%">
+      <knowledgecard></knowledgecard>
+    </view>
+    <view style="height: 10%" class="weui-footer">
+      <view class="weui-footer__text">Copyright © 2008-2016 weui.io</view>
+    </view>
+  </swiper-item>
+
+  <swiper-item>
+    <view style="height: 10%">111</view>
+    <view style="height: 80%">
+      <knowledgecard></knowledgecard>
+    </view>
+    <view style="height: 10%" class="weui-footer">
+      <view style="line-height: 1;" class="weui-footer__text">Copyright © 2008-2016 weui.io</view>
+    </view>
+  </swiper-item>
+  
+</swiper>

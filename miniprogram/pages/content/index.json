@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "knowledgecard": "../knowledgecard/index"
+  }
+}

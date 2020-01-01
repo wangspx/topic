@@ -1,0 +1,5 @@
+<view class="weui-tab">
+  <view class="weui-tab__panel">
+    <content></content>
+  </view>
+</view>
