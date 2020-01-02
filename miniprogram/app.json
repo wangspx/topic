@@ -1,8 +1,8 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/custom-tab-bar/index",
-    "pages/content/index"
+    "pages/content/index",
+    "pages/me/index"
   ],
   "tabBar": {
     "color": "#2c2c2c",
@@ -19,7 +19,7 @@
       {
         "selectedIconPath": "images/user-selected.png",
         "iconPath": "images/user.png",
-        "pagePath": "pages/index/index",
+        "pagePath": "pages/me/index",
         "text": "我的"
       }
     ]

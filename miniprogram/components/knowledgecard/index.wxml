@@ -1,9 +1,12 @@
 <view class="card">
   <view class="card-body" style="padding: 24rpx">
     <scroll-view style="height:100%" scroll-y>
-      <article 
-        title="{{title}}"
-        content="{{content}}"></article>
+      <view class="article">
+        <view class="article-title">{{title}}</view>
+        <view class="weui-article__section">
+          <view class="weui-article__p text-justify">{{content}}</view>
+        </view>
+      </view>
     </scroll-view>
   </view>
   <view class="card-footer">

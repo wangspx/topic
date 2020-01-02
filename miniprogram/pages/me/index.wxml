@@ -1,0 +1,9 @@
+<view class="container">
+  <view class="avatar">
+    <image class="avatar-img" src="https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1441588315,1666293982&fm=26&gp=0.jpg"></image>
+    <view class="avatar-text">
+      <view class="text-bold">{{author}}</view>
+      <view class="text-gray">发布于 {{publicDate}}</view>
+    </view>
+  </view>
+</view>

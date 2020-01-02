@@ -39,3 +39,10 @@
   align-items: center;
   justify-content: center;
 }
+
+.article-title  {
+  font-size: 44rpx;
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 20rpx 0;
+}
