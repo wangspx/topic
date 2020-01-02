@@ -1,0 +1,31 @@
+<view class="card">
+  <view class="card-body" style="padding: 24rpx">
+    <scroll-view style="height:100%" scroll-y>
+      <article 
+        title="{{title}}"
+        content="{{content}}"></article>
+    </scroll-view>
+  </view>
+  <view class="card-footer">
+    <view class="row">
+      <view class="col">
+        <view>
+          <text class="fa fa-commenting"></text>
+        </view>
+        <text class="weui-tabbar__label">100 * 评论</text>
+      </view>
+      <view class="col">
+        <view>
+          <text class="fa fa-thumbs-up"></text>
+        </view>
+        <text class="weui-tabbar__label">100 * 赞</text>
+      </view>
+      <view class="col">
+        <view>
+          <text class="fa fa-share-alt"></text>
+        </view>
+        <text class="weui-tabbar__label">分享给朋友</text>
+      </view>
+    </view>
+  </view>
+</view>

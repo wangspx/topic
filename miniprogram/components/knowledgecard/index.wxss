@@ -1,9 +1,11 @@
+@import "../../app.wxss";
+
 .card {
   background-color: #fff;
   margin: auto;
   display: flex;
   flex-direction: column;
-  width: 85%;
+  width: 100%;
   height: 100%;
   border-radius: 8rpx;
   box-sizing: border-box;

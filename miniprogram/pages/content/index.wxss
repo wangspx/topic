@@ -1,3 +1,26 @@
 page {
   overflow: hidden;
 }
+
+.container {
+  width: 90%;
+  height: 100%;
+  margin: auto;
+}
+
+.header {
+  height: 96rpx;
+  margin: 40rpx 0;
+}
+
+.body {
+  height: calc(100% - 96rpx - 40rpx - 40rpx - 96rpx);
+}
+
+.footer {
+  color: rgba(0,0,0,.3);
+  font-size: 28rpx;
+  line-height: 96rpx;
+  height: 96rpx;
+  text-align: center;
+}

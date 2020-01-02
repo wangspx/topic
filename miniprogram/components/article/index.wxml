@@ -1,0 +1,6 @@
+<view class="article">
+  <view class="article-title">{{title}}</view>
+  <view class="weui-article__section">
+    <view class="weui-article__p text-justify">{{content}}</view>
+  </view>
+</view>
